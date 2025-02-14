@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Harsheit14
+- 👋 Hi, I’m @Harsheit14, i speak the language of tech.
 - 👀 I’m interested in programming\web development
-- 🌱 I’m currently learning c language 
-- 💞️ I’m looking to collaborate on projects related to c language
+- 🌱 I’m currently learning c++language 
+- 💞️ I’m looking to collaborate on projects related to c++language
 - 😄 Pronouns: he\him
+
 
 <!---
 Harsheit14/Harsheit14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
