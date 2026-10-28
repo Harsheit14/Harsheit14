@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harsheit14, i speak the language of tech.
-- 👀 I’m interested in programming\web development
+- 👀 I’m interested in programming\app development
 - 🌱 I’m currently learning java/c++language 
 - 💞️ I’m looking to collaborate on projects related to App development.
 - 😄 Pronouns: he\him
